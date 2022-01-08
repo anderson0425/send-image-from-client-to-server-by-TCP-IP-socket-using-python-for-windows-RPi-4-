@@ -1,1 +1,1 @@
-# send-image-from-client-to-server-by-TCP-IP-socket-using-python-for-windows-RPi-4-
+# send text mutually by TCP/IP socket using python (for windows、RPi 4)
